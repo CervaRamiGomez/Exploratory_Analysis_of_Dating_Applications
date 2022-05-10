@@ -1,0 +1,33 @@
+
+Title: Exploratory Analysis of Dating Applications
+
+Team Members:
+
+Ramiro Cervantes
+Paola Moreno
+Estela Perez
+Yushen Liao
+
+Project Description/Ouline:
+
+Describe Data
+
+Estimate Statistics
+
+Graphical Visualizations
+
+
+
+Research Questions to Answer:
+
+Compare diffent applications
+
+Demographics, particularly age groups, and profession levels, 
+compatibility comparisons
+
+Sexual Orientation 
+
+Do people find partners?
+
+Are people looking for long term or short term relationships
+
