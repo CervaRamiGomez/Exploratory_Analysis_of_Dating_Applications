@@ -1,4 +1,3 @@
-# project_one
 Project Title: Exploratory Analysis of Dating Applications
 
 Team Members: Ramiro Cervantes, Paola Moreno, Estela Perez, Yushen Liao
@@ -12,21 +11,27 @@ What does the online dating pool look like?
 •	Summary Table to include demographics (Pivot Chart)
 •	Age (Pie Chart)
 •	Gender (Pie Chart)
-•	Sexual Orientation (Pie Chart)
+•	Sexual Orientation (Bar Chart)
 •	Education (Pie Chart)
 Which are the top dating apps?
-•	Rating (Bar Graph)
-How successful are these apps?
-•	Success rate
+•	User Rating (Bar Graph)
+How likely is someone to find a person in the App?
+•	Success rate (p-value)
 Has there been a change in the companies grows due to the pandemic?
 •	Quarterly reports Stocks (line Graph)
 Data sets to be used:
-https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
-https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review
-https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review
-https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews
-Match Group - News & Events (mtch.com)
-https://data.nasdaq.com/tools/api
+Demographics
+•	https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
+User Reviews
+•	https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review
+•	https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review
+•	https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews
+Dating Success 
+•	https://www.kaggle.com/datasets/benroshan/tinder-millennial-match-rate
+Stock Info
+•	Match Group - News & Events (mtch.com)
+•	https://data.nasdaq.com/tools/api
+•	https://www.cdc.gov/museum/timeline/covid19.html
 
 Breakdown of Tasks:
 Ramiro Cervantes:
