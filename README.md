@@ -54,10 +54,24 @@ Research Questions
 ![alt text](Ramiro_P1_Files/ComparedRatings.png)
 
 ## How successful are these apps?
+
   * Success rate
 
+![alt text](paoz/"the rest of the path")
+
+  * Title 2
+
+![alt text](paoz/"the rest of the path")
+
 ## Has there been a change in the companies grows due to the pandemic?
-  * Quarterly reports Stocks (line Graph)
+
+  * Quarterly Stocks Reports
+
+![alt text](paoz/"the rest of the path")
+
+  * Stock Volume Report
+
+![alt text](paoz/"the rest of the path")
 
 ## Links
 
