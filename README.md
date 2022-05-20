@@ -52,12 +52,12 @@ Research Questions
 ### Has there been a change in the companies grows due to the pandemic?
   * Quarterly reports Stocks (line Graph)
 ### Data sets to be used:
-https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
-https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review
-https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review
-https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews
+  * [OkCupid Profiles](https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles)
+  * [Tinder Reviews](https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review)
+  * [Hinge Reviews](https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review)
+  * [OkCupid Reviews](https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews)
 ### Match Group - News & Events (mtch.com)
-https://data.nasdaq.com/tools/api
+  * [Stock Info API](https://www.alphavantage.co/)
 
 ### Conclusion
 
