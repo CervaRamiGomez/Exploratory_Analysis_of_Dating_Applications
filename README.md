@@ -1,10 +1,16 @@
-# Project Title: Exploratory Analysis of Dating Applications
+# Exploratory Analysis of Dating Applications
 
-##### Team Members: Ramiro Cervantes, Paola Moreno, Estela Perez, Yushen Liao
 
-### Project Description/Outline:
+
+##### Team Members: Ramiro Cervantes, Paola Moreno, Estela Perez
+
+
+
+### Background
 
 Covid-19 pandemic affected the way people interacted with one another. Being that the pandemic forced everyone to isolate, not only by mandate, but also by fear of contracting the infection by human contact; people who were looking for courtship began accepting different ways to socialize. Many people turned to dating applications which became more commonly accepted platforms during the pandemic, where they socially connected without any fears of becoming infected. 
+
+### Thesis
 
 Our project will analyze the dating pool within the dating apps Tinder, Hinge and OkCupid. We will provide a summary of demographic data, including, age, race, sex and economic characteristics. We will also be comparing the ratings and “success” rates of the apps to determine their efficiency.
 Research Questions
