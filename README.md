@@ -18,10 +18,21 @@ Research Questions
   * Education (Pie Chart)
 ### Which are the top dating apps?
   * OkCupid Ratings
+  
+![alt text](Ramiro_P1_Files/OkCupidPie.png)
 
   * Tinder Ratings
+
+![alt text](Ramiro_P1_Files/TinderPie.png)
+
   * Hinge Rating
+
+![alt text](Ramiro_P1_Files/HingePie.png)
+
   * Compared Ratings
+
+![alt text](Ramiro_P1_Files/ComparedRatings.png)
+
 ### How successful are these apps?
   * Success rate
 ### Has there been a change in the companies grows due to the pandemic?
