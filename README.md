@@ -36,7 +36,7 @@ Research Questions
 
 ![alt text](estela_files/images_estela/males_and_females_income.png)
 
-## When comparing Tinder, Hinge and OkCupid, which app is the best rated?
+## When comparing OkCupid, Tinder, and Hinge, which app is the best rated?
 
   * OkCupid Ratings
   
