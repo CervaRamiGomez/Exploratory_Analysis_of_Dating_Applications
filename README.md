@@ -62,6 +62,7 @@ Research Questions
   * [Tinder Reviews](https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review)
   * [Hinge Reviews](https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review)
   * [OkCupid Reviews](https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews)
+  * [Tinder Matches](https://www.kaggle.com/datasets/benroshan/tinder-millennial-match-rate)
 ### Match Group - News & Events (mtch.com)
   * [Stock Info API](https://www.alphavantage.co/)
 
