@@ -36,30 +36,31 @@ Research Questions
 
 ![alt text](estela_files/images_estela/males_and_females_income.png)
 
-## Which are the top dating apps?
+## When comparing Tinder, Hinge and OkCupid, which app is the best rated?
+
   * OkCupid Ratings
   
 ![alt text](Ramiro_P1_Files/OkCupidPie.png)
 
-###### These are ratings for OkCupid's Google Play Store reviews as of May 2022.
+###### (1-5) Star ratings for OkCupid's Google Play Store reviews as of May 2022.
 
   * Tinder Ratings
 
 ![alt text](Ramiro_P1_Files/TinderPie.png)
 
-###### These are ratings for Tinder's Google Play Store reviews as of May 2022.
+###### (1-5) Star ratings for Tinder's Google Play Store reviews as of May 2022.
 
   * Hinge Rating
 
 ![alt text](Ramiro_P1_Files/HingePie.png)
 
-###### These are ratings for Hinge's Google Play Store reviewsas of May 2022.
+###### (1-5) Star ratings for Hinge's Google Play Store reviewsas of May 2022.
 
   * Compared Ratings
 
 ![alt text](Ramiro_P1_Files/ComparedRatings.png)
 
-###### This is a comparison of all three total app reviews.
+###### Comparison of all three total app reviews.
 
 ## How successful are these apps?
 
