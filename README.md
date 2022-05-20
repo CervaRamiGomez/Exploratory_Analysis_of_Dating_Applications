@@ -57,13 +57,13 @@ Research Questions
   * Success rate
 ### Has there been a change in the companies grows due to the pandemic?
   * Quarterly reports Stocks (line Graph)
-### Data sets to be used:
+### Data sets Links:
   * [OkCupid Profiles](https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles)
   * [Tinder Reviews](https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review)
   * [Hinge Reviews](https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review)
   * [OkCupid Reviews](https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews)
   * [Tinder Matches](https://www.kaggle.com/datasets/benroshan/tinder-millennial-match-rate)
-### Match Group - News & Events (mtch.com)
+### API Link
   * [Stock Info API](https://www.alphavantage.co/)
 
 ### Conclusion
