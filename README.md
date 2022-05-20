@@ -64,13 +64,13 @@ Research Questions
 
 ## How successful are these apps?
 
-  * Success rate
+  * Percentage of Matches
 
-![alt text](paoz/"the rest of the path")
+![alt text](paoz/Matches.png)
 
-  * Title 2
+  * Success Rate
 
-![alt text](paoz/"the rest of the path")
+![alt text](paoz/Sucess.png)
 
 ## Has there been a change in the companies grows due to the pandemic?
 
