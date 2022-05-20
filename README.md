@@ -34,7 +34,13 @@ Research Questions
 ![alt text](Ramiro_P1_Files/ComparedRatings.png)
 
 ### How successful are these apps?
-  * Success rate
+
+  * Percentage of Matches
+![alt text](Paoz/Matches.png)  
+
+  * Success Rate
+![alt text](Paoz/Sucess.png)
+
 ### Has there been a change in the companies grows due to the pandemic?
   * Quarterly reports Stocks (line Graph)
 ### Data sets to be used:
