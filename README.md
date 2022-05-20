@@ -10,11 +10,26 @@ Our project will analyze the dating pool within the dating apps Tinder, Hinge an
 Research Questions
 
 ### What does the online dating pool look like?
-  * Summary Table to include demographics (Pivot Chart)
-  * Age (Pie Chart)
-  * Gender (Pie Chart)
-  * Sexual Orientation (Pie Chart)
-  * Education (Pie Chart)
+  * Gender
+
+![alt text](estela_files/images_estela/gender_distribution.png)
+
+  * Sexual Orientation
+
+![alt text](estela_files/images_estela/total_user_orientation.png)
+
+  * Age
+
+![alt text](estela_files/images_estela/users_by_age_groups.png)
+
+  * Zodiac Sign
+
+![alt text](estela_files/images_estela/users_by_zodiac_signs.png)
+
+  * Income
+
+![alt text](estela_files/images_estela/males_and_females_income.png)
+
 ### Which are the top dating apps?
   * OkCupid Ratings
   
