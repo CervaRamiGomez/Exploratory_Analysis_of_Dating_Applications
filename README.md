@@ -81,7 +81,7 @@ Research Questions
 
   * Success Rate
 
-![alt text](paoz_project/Sucess.png)
+![alt text](paoz_project/Success.png)
 
 ## Has there been a change in the companies grows due to the pandemic?
 
