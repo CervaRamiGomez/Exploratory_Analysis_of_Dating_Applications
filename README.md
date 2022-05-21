@@ -74,7 +74,7 @@ Research Questions
 ###### Comparison of all three total app reviews.
 
 ## How successful are these apps?
-We measured success rate using two metrics: Match Rate and whether a match ended in a long-term relationship.
+We measured the efficiency of the apps using two metrics: Match Rate and Success Rate: whether a match ended in a long-term relationship.
 
 
 # Match Rate
