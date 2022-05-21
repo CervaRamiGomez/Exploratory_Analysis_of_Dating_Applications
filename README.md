@@ -77,11 +77,11 @@ Research Questions
 
   * Percentage of Matches
 
-![alt text](paoz/project_one/Matches.png)
+![alt text](paoz_project/Matches.png)
 
   * Success Rate
 
-![alt text](paoz/project_one/Sucess.png)
+![alt text](paoz_project/Sucess.png)
 
 ## Has there been a change in the companies grows due to the pandemic?
 
