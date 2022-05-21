@@ -87,11 +87,8 @@ Research Questions
 
   * Quarterly Stocks Reports
 
-![alt text](paoz/"the rest of the path")
+![alt text](paoz_project/Stocks.png)
 
-  * Stock Volume Report
-
-![alt text](paoz/"the rest of the path")
 
 ## Links
 
