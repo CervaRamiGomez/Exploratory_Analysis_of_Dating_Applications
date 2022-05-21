@@ -74,24 +74,35 @@ Research Questions
 ###### Comparison of all three total app reviews.
 
 ## How successful are these apps?
+We measured success rate using two metrics: Match Rate and whether a match ended in a long-term relationship.
+
 
   * Match Rate
+Using a dataset on Millennial online dating trends, we found that 31% of users actually match with others only about 10% of the time or less. !
 
 ![alt text](paoz_project/Matches.png)
 
   * Success Rate
+We also found that of users who actually met with their matches in person, about 29% of them resulted in a long-term relationship. Now, this is how we chose to operationalize success, but we just want to note that not everybody on dating apps is looking for a long-term relationship. !
 
 ![alt text](paoz_project/Success.png)
 
 ## Has there been a change in the companies grows due to the pandemic?
 
-  * Quarterly Stocks Reports
+The popular dating apps--Tinder, Hinge, and Ok Cupid—are actually owned by the same parent company called Match Group, Inc. 
+Using the Alpha Vantage API, we pulled data on the company’s quarterly performance for the last three years to see how it performed through the pandemic. 
+
+We see a slight stagnation in Q3 of 2020, which is when social restrictions were first being implemented due to the uncertainty of the pandemic. 
+Then we see consistent growth through Q2 of 2021 which suggests that more people took to online dating apps to socialize and find romantic partners. And then we see a gradual decrease since social restrictions began lifting. 
+
+We also pulled data on Bumble, since it’s one of the top competitors. Bumble’s user base grew so much during the peak of the pandemic, that the company went public in Early 2021. After it’s initial boom, we also see a similar trend, with a gradual decrease after lifted restriction on social distancing.
 
 ![alt text](paoz_project/Stocks.png)
 
 ## Conclusion
+  * We set off to answer four general questions and we found that:
 
-  * Dating apps tends to appeal to a younger crowd and have a higher male percentage.
+  * The dating pool is mostly comprised of younger users, has a higher male concentration, and is mostly used by straight users.
   * While Okcupid has a higher rating,  Tinder is the still one of the most commonly used apps to date.
   * Chances of finding a long-term partner on a dating app are slim.
   * Dating app stocks grew in the height of the pandemic and have since decreased due to social distancing being lifted. 
