@@ -77,13 +77,13 @@ Research Questions
 We measured success rate using two metrics: Match Rate and whether a match ended in a long-term relationship.
 
 
-  * Match Rate
-Using a dataset on Millennial online dating trends, we found that 31% of users actually match with others only about 10% of the time or less. !
+# Match Rate
+Using a dataset on Millennial online dating trends, we found that 31% of users actually match with others only about 10% of the time or less. 
 
 ![alt text](paoz_project/Matches.png)
 
-  * Success Rate
-We also found that of users who actually met with their matches in person, about 29% of them resulted in a long-term relationship. Now, this is how we chose to operationalize success, but we just want to note that not everybody on dating apps is looking for a long-term relationship. !
+# Success Rate
+We also found that of users who actually met with their matches in person, about 29% of them resulted in a long-term relationship. Now, this is how we chose to operationalize success, but we just want to note that not everybody on dating apps is looking for a long-term relationship.
 
 ![alt text](paoz_project/Success.png)
 
@@ -100,12 +100,21 @@ We also pulled data on Bumble, since it’s one of the top competitors. Bumble�
 ![alt text](paoz_project/Stocks.png)
 
 ## Conclusion
-  * We set off to answer four general questions and we found that:
+# We set off to answer four general questions and we found that:
 
   * The dating pool is mostly comprised of younger users, has a higher male concentration, and is mostly used by straight users.
   * While Okcupid has a higher rating,  Tinder is the still one of the most commonly used apps to date.
   * Chances of finding a long-term partner on a dating app are slim.
   * Dating app stocks grew in the height of the pandemic and have since decreased due to social distancing being lifted. 
+
+## Limitations and difficulties
+
+As I’m sure you experienced too, the use of secondary data limited our access to and control over the data collected. 
+It was hard to find a dataset that answered our original questions, we had to use multiple datatsets and tweak our questions to fit the data we had. This also limits the generalizability of our findings. 
+
+Use of API proved more difficult than we hoped.
+
+We had a lot of trouble merging our branches. Many branches created and destroyed in the making of this project. 
 
 
 ## Links
