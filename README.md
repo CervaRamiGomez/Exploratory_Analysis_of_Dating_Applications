@@ -75,7 +75,7 @@ Research Questions
 
 ## How successful are these apps?
 
-  * Percentage of Matches
+  * Match Rate
 
 ![alt text](paoz_project/Matches.png)
 
@@ -88,6 +88,13 @@ Research Questions
   * Quarterly Stocks Reports
 
 ![alt text](paoz_project/Stocks.png)
+
+## Conclusion
+
+  * Dating apps tends to appeal to a younger crowd and have a higher male percentage.
+  * While Okcupid has a higher rating,  Tinder is the still one of the most commonly used apps to date.
+  * Chances of finding a long-term partner on a dating app are slim.
+  * Dating app stocks grew in the height of the pandemic and have since decreased due to social distancing being lifted. 
 
 
 ## Links
@@ -102,6 +109,5 @@ Research Questions
 ### API:
   * [Stock Info API](https://www.alphavantage.co/)
 
-## Conclusion
 
 
