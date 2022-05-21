@@ -77,12 +77,12 @@ Research Questions
 We measured the efficiency of the apps using two metrics: Match Rate and Success Rate: whether a match ended in a long-term relationship.
 
 
-# Match Rate
+### Match Rate
 Using a dataset on Millennial online dating trends, we found that 31% of users actually match with others only about 10% of the time or less. 
 
 ![alt text](paoz_project/Matches.png)
 
-# Success Rate
+### Success Rate
 We also found that of users who actually met with their matches in person, about 29% of them resulted in a long-term relationship. Now, this is how we chose to operationalize success, but we just want to note that not everybody on dating apps is looking for a long-term relationship.
 
 ![alt text](paoz_project/Success.png)
