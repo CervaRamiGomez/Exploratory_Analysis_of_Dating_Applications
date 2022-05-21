@@ -18,31 +18,31 @@ Research Questions
 ## What does the online dating pool look like?
   * Gender
 
-![alt text](estela_files/images_estela/gender_distribution.png)
+![alt text](combined_files/Images/gender_distribution.png)
 ###### Out of OkCupid's most recent data of 59,946 total users
 
 
   * Sexual Orientation
 
-![alt text](estela_files/images_estela/total_user_orientation.png)
+![alt text](combined_files/Images/total_user_orientation.png)
 ###### Out of OkCupid's most recent data of 59,946 total users
 
 
   * Age
 
-![alt text](estela_files/images_estela/users_by_age_groups.png)
+![alt text](combined_files/Images/users_by_age_groups.png)
 ###### Out of OkCupid's most recent data of 59,946 total users
 
 
   * Zodiac Sign
 
-![alt text](estela_files/images_estela/users_by_zodiac_signs.png)
+![alt text](combined_files/Images/users_by_zodiac_signs.png)
 ###### Out of 59,946 total users only 48,890 shared their zodiac sign
 
 
   * Income
 
-![alt text](estela_files/images_estela/males_and_females_income.png)
+![alt text](combined_files/Images/males_and_females_income.png)
 ###### Out of 35,829 male users only 8,391 responded to their income level
 ###### Out of 24,117 female users only 3,113 responded to their income level
 
@@ -51,25 +51,25 @@ Research Questions
 
   * OkCupid Ratings
   
-![alt text](Ramiro_P1_Files/OkCupidPie.png)
+![alt text](combined_files/Images/OkCupidPie.png)
 
 ###### (1-5) Star ratings for OkCupid's Google Play Store reviews as of May 2022.
 
   * Tinder Ratings
 
-![alt text](Ramiro_P1_Files/TinderPie.png)
+![alt text](combined_files/Images/TinderPie.png)
 
 ###### (1-5) Star ratings for Tinder's Google Play Store reviews as of May 2022.
 
   * Hinge Rating
 
-![alt text](Ramiro_P1_Files/HingePie.png)
+![alt text](combined_files/Images/HingePie.png)
 
 ###### (1-5) Star ratings for Hinge's Google Play Store reviewsas of May 2022.
 
   * Compared Ratings
 
-![alt text](Ramiro_P1_Files/ComparedRatings.png)
+![alt text](combined_files/Images/ComparedRatings.png)
 
 ###### Comparison of all three total app reviews.
 
@@ -80,12 +80,12 @@ We measured the efficiency of the apps using two metrics: Match Rate and Success
 ### Match Rate
 Using a dataset on Millennial online dating trends, we found that 31% of users actually match with others only about 10% of the time or less. 
 
-![alt text](paoz_project/Matches.png)
+![alt text](combined_files/Images/Matches.png)
 
 ### Success Rate
 We also found that of users who actually met with their matches in person, about 29% of them resulted in a long-term relationship. Now, this is how we chose to operationalize success, but we just want to note that not everybody on dating apps is looking for a long-term relationship.
 
-![alt text](paoz_project/Success.png)
+![alt text](combined_files/Images/Success.png)
 
 ## Has there been a change in the companies' growth due to the pandemic?
 
@@ -97,7 +97,7 @@ Then we see consistent growth through Q2 of 2021 which suggests that more people
 
 We also pulled data on Bumble, since it’s one of the top competitors. Bumble’s user base grew so much during the peak of the pandemic, that the company went public in Early 2021. After it’s initial boom, we also see a similar trend, with a gradual decrease after lifted restriction on social distancing.
 
-![alt text](paoz_project/Stocks.png)
+![alt text](combined_files/Images/Stocks.png)
 
 ## Conclusion
 #### We set off to answer four general questions and we found that:
