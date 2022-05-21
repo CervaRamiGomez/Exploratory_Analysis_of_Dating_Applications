@@ -19,29 +19,26 @@ Research Questions
   * Gender
 
 ![alt text](estela_files/images_estela/gender_distribution.png)
-
 ###### Out of OkCupid's most recent data of 59,946 total users
 
   * Sexual Orientation
 
 ![alt text](estela_files/images_estela/total_user_orientation.png)
-
 ###### Out of OkCupid's most recent data of 59,946 total users
 
   * Age
 
 ![alt text](estela_files/images_estela/users_by_age_groups.png)
-
 ###### Out of OkCupid's most recent data of 59,946 total users
 
   * Zodiac Sign
 
 ![alt text](estela_files/images_estela/users_by_zodiac_signs.png)
+###### Out of 59,946 total users only 48,890 shared their zodiac sign
 
   * Income
 
 ![alt text](estela_files/images_estela/males_and_females_income.png)
-
 ###### Out of 35,829 male users only 8,391 responded to their income level
 ###### Out of 24,117 female users only 3,113 responded to their income level
 
