@@ -100,7 +100,7 @@ We also pulled data on Bumble, since itâ€™s one of the top competitors. Bumbleâ€
 ![alt text](paoz_project/Stocks.png)
 
 ## Conclusion
-# We set off to answer four general questions and we found that:
+#### We set off to answer four general questions and we found that:
 
   * The dating pool is mostly comprised of younger users, has a higher male concentration, and is mostly used by straight users.
   * While Okcupid has a higher rating,  Tinder is the still one of the most commonly used apps to date.
