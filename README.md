@@ -109,8 +109,7 @@ We also pulled data on Bumble, since it’s one of the top competitors. Bumble�
 
 ## Limitations and difficulties
 
-As I’m sure you experienced too, the use of secondary data limited our access to and control over the data collected. 
-It was hard to find a dataset that answered our original questions, we had to use multiple datatsets and tweak our questions to fit the data we had. This also limits the generalizability of our findings. 
+The use of secondary data limited our access to and control over the data collected. It was hard to find a dataset that answered our original questions, we had to use multiple datatsets and tweak our questions to fit the data we had. This also limits the generalizability of our findings. 
 
 Use of API proved more difficult than we hoped.
 
