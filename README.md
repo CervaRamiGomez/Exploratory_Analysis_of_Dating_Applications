@@ -1,6 +1,6 @@
 # Exploratory Analysis of Dating Applications
 
-![alt text](dating_apps.jpeg)
+![alt text](best-dating-apps-FB.jpg)
 
 ##### Team Members: Ramiro Cervantes, Paola Moreno, Estela Perez
 
