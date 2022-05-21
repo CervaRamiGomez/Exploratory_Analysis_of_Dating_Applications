@@ -87,7 +87,7 @@ We also found that of users who actually met with their matches in person, about
 
 ![alt text](paoz_project/Success.png)
 
-## Has there been a change in the companies grows due to the pandemic?
+## Has there been a change in the companies' growth due to the pandemic?
 
 The popular dating apps--Tinder, Hinge, and Ok Cupid—are actually owned by the same parent company called Match Group, Inc. 
 Using the Alpha Vantage API, we pulled data on the company’s quarterly performance for the last three years to see how it performed through the pandemic. 
